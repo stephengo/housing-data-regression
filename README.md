@@ -17,8 +17,8 @@ This README outlines the details of a Regression & Forecasting class project. Th
 ## Structure
 The following models were developed:
 
-| Model  | Assumption | Outcome  |
+| Model  | File Name  | Notes    |
 | ------ |:----------:| --------:|
-| 1      | na         | na       |
+| 1      | na         |   na     |
 | 2      | na         |   na     |
 | 3      | na         |   na     |
