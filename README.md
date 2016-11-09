@@ -1,5 +1,5 @@
 # Housing Data Regression Analysis
-This README outlines the details of a Regression & Forecasting class project. The data used for this analysis is on Boston real estate value, maintained by CMU's statlib.
+This README outlines the details of a Regression & Forecasting class project. The data used for this analysis is on Boston real estate value, maintained by [CMU's statlib](http://lib.stat.cmu.edu/datasets/boston_corrected.txt).
 
 ## Prerequisites
 
@@ -17,8 +17,8 @@ This README outlines the details of a Regression & Forecasting class project. Th
 ## Structure
 The following models were developed:
 
-| Model       | Assumption           | Outcome  |
-| ------------- |:-------------:| -----:|
-| 1      | na | na |
-| 2      | na      |   na |
-| 3 | na      |   na |
+| Model  | Assumption | Outcome  |
+| ------ |:----------:| --------:|
+| 1      | na         | na       |
+| 2      | na         |   na     |
+| 3      | na         |   na     |
