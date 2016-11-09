@@ -1,12 +1,10 @@
 # Housing Data Regression Analysis
-This README outlines the details of a Regression & Forecasting class project.
-
-The data used for this analysis is on Boston real estate value, maintained by CMU's statlib.
+This README outlines the details of a Regression & Forecasting class project. The data used for this analysis is on Boston real estate value, maintained by CMU's statlib.
 
 ## Prerequisites
 
 * [Git](http://git-scm.com/)
-* [Python]
+* [Python 2.7](https://www.python.org/download/releases/2.7/)
 
 
 ## Installation
@@ -15,3 +13,12 @@ The data used for this analysis is on Boston real estate value, maintained by CM
 * `cd housing-data-regression`
 * `jupyter notebook`
 * select .ipynb file in browser
+
+## Structure
+The following models were developed:
+
+| Model       | Assumption           | Outcome  |
+| ------------- |:-------------:| -----:|
+| 1      | na | na |
+| 2      | na      |   na |
+| 3 | na      |   na |
