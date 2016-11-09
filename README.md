@@ -8,7 +8,7 @@ This README outlines the details of a Regression & Forecasting class project. Th
 
 
 ## Installation
-
+* open Terminal or Command Prompt
 * `git clone <repository-url>` this repository
 * `cd housing-data-regression`
 * `jupyter notebook`
