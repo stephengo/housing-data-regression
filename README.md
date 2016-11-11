@@ -14,6 +14,13 @@ This README outlines the details of a Regression & Forecasting class project. Th
 * `jupyter notebook`
 * select .ipynb file in browser
 
+## Updating
+* open Terminal or Command Prompt
+* 'cd housing-data-regression'
+* 'git add .'
+* 'git commit -m "your message"'
+* 'git push'
+
 ## Structure
 The following models were developed:
 
