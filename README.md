@@ -21,7 +21,11 @@ This README outlines the details of a Regression & Forecasting class project. Th
 * 'git commit -m "your message"'
 * 'git push'
 
+## Data Table
+![alt text](/data-table.png)
+
 ## Structure
+
 The following models were developed:
 
 | Model  | File Name  | Notes    |
