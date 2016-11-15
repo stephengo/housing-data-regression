@@ -5,6 +5,16 @@ This README outlines the details of a Regression & Forecasting class project. Th
 
 * [Git](http://git-scm.com/)
 * [Python 2.7](https://www.python.org/download/releases/2.7/)
+* [R](https://www.r-project.org/)
+* [Jupyter R-kernel](https://irkernel.github.io/installation/)
+
+## Installation of R-kernel
+
+* navigate to an R console (type 'r' in terminal for Mac)
+* 'install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))'
+* 'devtools::install_github('IRkernel/IRkernel')'
+* 'IRkernel::installspec(user = FALSE)'
+* select R file type from dropdown when starting a notebook
 
 
 ## Installation
