@@ -11,9 +11,9 @@ This README outlines the details of a Regression & Forecasting class project. Th
 ## Installation of R-kernel
 
 * navigate to an R console (type 'r' in terminal for Mac)
-* 'install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))'
-* 'devtools::install_github('IRkernel/IRkernel')'
-* 'IRkernel::installspec(user = FALSE)'
+* `install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))`
+* `devtools::install_github('IRkernel/IRkernel')`
+* `IRkernel::installspec(user = FALSE)`
 * select R file type from dropdown when starting a notebook
 
 
@@ -26,10 +26,10 @@ This README outlines the details of a Regression & Forecasting class project. Th
 
 ## Updating
 * open Terminal or Command Prompt
-* 'cd housing-data-regression'
-* 'git add .'
-* 'git commit -m "your message"'
-* 'git push'
+* `cd housing-data-regression`
+* `git add .`
+* `git commit -m "your message"`
+* `git push`
 
 ## Data Table
 ![alt text](/data-table.png)
